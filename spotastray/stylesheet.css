@@ -1,0 +1,73 @@
+@charset "UTF-8";
+.navbar.navbar-default {
+	background-color: #39650e;
+	position: relative;
+	margin-bottom: -3px;
+}
+.nav.navbar-nav.navbar-right li a {
+	color: #FFFFFF;
+	font-family: "Typo Round Bold Demo";
+	font-size: 35px;
+	margin-top: 16px;
+}
+#top .navbar.navbar-default .container-fluid {
+}
+#body {
+	background-color: #183d6f;
+	color: #FFFFFF;
+	font-family: "Typo Round Bold Demo";
+	text-align: center;
+}
+#box1 #p1 p1 {
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 25px;
+}
+h1  {
+	font-size: 30px;
+	text-align: center;
+}
+#p1 p1 h1 {
+	font-family: "Typo Round Bold Demo";
+}
+#body .img-responsive {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+#body #box1 {
+	background-color: #25a5ae;
+	background-repeat: repeat;
+	border-radius: 34px;
+}
+#box1 #p1 #story {
+	float: left;
+}
+#p1 #story .img-responsive {
+	border-radius: 37px;
+}
+#story p1 p3 {
+	text-align: center;
+	padding-left: 300px;
+}
+#body #bot {
+	text-align: left;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.col-md-6.col-md-offset-3 .text-center.report .report {
+	color: #FFFFFF;
+	font-family: "Typo Round Bold Demo";
+	font-size: 30px;
+}
+.menu {
+}
+.about {
+}
+.report {
+}
+
+a.hover {
+	font-weight: lighter;
+	font-size: medium;
+	text-shadow: 0px 0px #CF8F3F;
+}

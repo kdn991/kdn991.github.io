@@ -1,0 +1,90 @@
+.container1{
+    max-width: 1200px;
+    margin: 0 auto;
+    background: #f9f9f9;
+    font-size: 24px;
+    padding: 0px;
+}
+.background1{
+     min-height: 150px;
+    background: transparent;
+    vertical-align:middle;
+    text-align:center;
+    padding: 50px;
+
+}
+.title{
+   z-index: 2;
+   position: relative;
+   color: #fff;
+   font-size: 8vw;
+   font-family: sans-serif;
+   text-align: center;
+
+}
+.about h1{
+    font-size: 3vw;
+    font-family: 'Josefin Slab', serif;
+    text-align: left;
+}
+.about{
+    width: auto;
+    height: auto;
+    overflow: auto;
+}
+.about img{
+    width: 30%;
+    height: 30%;
+    background-size: cover;
+    padding: 10px 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.about p{
+    font-family: 'Marvel', serif;
+    font-size: 2vw;
+    line-height: 3.7vw;
+}
+.container2{
+    max-width: 1200px;
+    margin: 0 auto;
+    background: #f9f9f9;
+    font-size: 24px;
+    padding: 0px;
+}
+.portfolio{
+    width: auto;
+    height: auto;
+    clear: both;
+}
+.portfolioimage{
+   padding-top: 10px;
+   padding-bottom: 10px;
+   width: auto;
+   text-align: center;
+}
+.portfolioimage img{
+    width: 20%;
+    padding: 10px;
+    transition: 0.8s;
+    margin: auto;
+}
+.portfolioimage img:hover{
+   transform: scale(1.1);
+}
+.floatimg{
+   float: left;
+   margin-right: 30px;  
+}
+h1{
+   font-size: 3vw;
+   font-family: 'Josefin Slab', serif;
+   text-align: center;
+}
+.portfolioimage h1:hover{
+   transform: scale(1.1);
+}
+.about img:hover{
+   transform: scale(0.95);
+   transition: 0.8s;
+}
